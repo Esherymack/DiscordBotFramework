@@ -1,2 +1,2 @@
 # DiscordBotFramework
- My personal framework for bots made via Discord.NET. 
+personal framework for Discord.NET bots. probably a heap of trash.
